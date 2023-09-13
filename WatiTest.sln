@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatiTest", "WatiTest.csproj", "{75ED3013-B303-41A5-AC3C-0D787E0C4EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75ED3013-B303-41A5-AC3C-0D787E0C4EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75ED3013-B303-41A5-AC3C-0D787E0C4EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75ED3013-B303-41A5-AC3C-0D787E0C4EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75ED3013-B303-41A5-AC3C-0D787E0C4EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42218612-778A-4133-9BE8-949E7BFEE0A6}
+	EndGlobalSection
+EndGlobal
